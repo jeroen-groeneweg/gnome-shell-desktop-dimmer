@@ -1,0 +1,8 @@
+{
+    "uuid": "gnome-shell-desktop-dimmer@jeroen-groeneweg.github.com",
+    "name": "Desktop Dimmer",
+    "description": "Gnome Shell Extension that will add a night slider to the top menu panel. This will let you dim the brightness of (multiple) screens without a dimmable back-light such as regular monitors.",
+    "version": 1,
+    "shell-version": [],
+    "url": "https://github.com/jeroen-groeneweg/gnome-shell-desktop-dimmer"
+}
